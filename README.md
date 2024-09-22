@@ -32,7 +32,7 @@ The dataset (`house_price_prediction_dataset.csv`) contains the following column
 
 Below is an example of the web application after predicting a house price based on user input:
 
-![House Price Prediction Output](D:\Intern-Project\House Price Prediction\Output.png)
+![House Price Prediction Output](Output.png)
 
 
 ## How to Run
