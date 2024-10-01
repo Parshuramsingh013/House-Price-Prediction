@@ -1,4 +1,5 @@
 # House Price Prediction Project
+**[View Live App](https://house-price-prediction-h3lxx9zpq6jpjvujh5ijpx.streamlit.app/)**
 
 ## Overview
 This project was completed as part of my summer internship in 2024. The goal was to develop a machine learning model capable of predicting house prices based on certain features such as the number of bedrooms, bathrooms, square footage, and the age of the house. The project uses Python, `scikit-learn` for building the machine learning model, and Streamlit for creating an interactive web application.
